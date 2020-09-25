@@ -8,6 +8,6 @@ Tailwind CSS 屬於實用工具類型（Utility）的 CSS 框架，與 Bootstrap
 
 ### [骰子](https://powerkaifu.github.io/Tailwind_CSS/src/dice.html)
 
-- 2020/09/26
+- 2020/09/26 - Position 測試
 
   藉由骰子測試 Tailwind 對於定位的支援，其定位位置適合大方向，細節較不足，因此我自訂了 10% ~ 90% 的 Class，盒陰影部分難達成想要的效果，或許應該朝自訂義方向去解決？但是想睡搞搞了．．．
