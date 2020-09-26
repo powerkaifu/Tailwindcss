@@ -18,7 +18,7 @@ Tailwind CSS 屬於實用工具類型（Utility）的 CSS 框架，與 Bootstrap
 
   三欄練習。
 
-### [骰子](https://powerkaifu.github.io/Tailwind_CSS/src/2020-09-25-dice.html)
+### [骰子](https://powerkaifu.github.io/Tailwind_CSS/src/2020-09-26-dice.html)
 
 - 2020/09/26 - Position 測試
 
