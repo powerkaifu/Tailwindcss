@@ -24,7 +24,7 @@ Tailwind CSS 屬於實用工具類型（Utility）的 CSS 框架，與 Bootstrap
 
   測試 Tailwind 對於定位的支援，其定位位置適合大方向，細節較不足，因此自訂了 10% 到 90% 的 Class，盒陰影部分難達成想要的效果，或許應該朝自訂義方向去解決？但是想睡搞搞了．．．
 
-### [骰子](https://powerkaifu.github.io/Tailwind_CSS/src/2020-09-29-flexbox.html)
+### [彈性盒](https://powerkaifu.github.io/Tailwind_CSS/src/2020-09-29-flexbox.html)
 
 - 2020/09/26 - Flex box 測試
 
