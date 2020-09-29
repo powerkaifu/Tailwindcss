@@ -31,3 +31,19 @@ Tailwind CSS 屬於實用工具類型（Utility）的 CSS 框架，與 Bootstrap
 - 2020/09/26 - Flex box 測試
 
   彈性盒測試。
+
+### [切版](https://powerkaifu.github.io/Tailwind_CSS/src/2020-09-29-layout.html)
+
+- 2020/09/26 - 切版問題集
+
+  高度：預設只有支援到 h-64（16rem = 256px），需自訂增加，增加了 h-72、h-88、h-500(500px)、h-600(600px)。
+  背景：可以設定漸層，但沒有設定 url 背景圖，需在設定檔自訂 url 背景圖。
+  文字陰影：沒有文字陰影的 Class，可以在 tailwind.css 新增以下。
+
+  ```css
+  @responsive {
+    .text-shadow {
+      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    }
+  }
+  ```

@@ -155,6 +155,10 @@ module.exports = {
       48: '12rem',
       56: '14rem',
       64: '16rem',
+      76: '18rem',
+      88: '20rem',
+      500: '500px',
+      600: '600px',
     },
     backgroundColor: theme => theme('colors'),
     backgroundImage: {
@@ -167,6 +171,7 @@ module.exports = {
       'gradient-to-bl': 'linear-gradient(to bottom left, var(--gradient-color-stops))',
       'gradient-to-l': 'linear-gradient(to left, var(--gradient-color-stops))',
       'gradient-to-tl': 'linear-gradient(to top left, var(--gradient-color-stops))',
+      ad: 'url(https://picsum.photos/1920/500/?random=1)',
     },
     gradientColorStops: theme => theme('colors'),
     backgroundOpacity: theme => theme('opacity'),
